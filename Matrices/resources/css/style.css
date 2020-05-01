@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+main .contenedor{
+    background-image: url(https://www.google.com.sv/url?sa=i&url=https%3A%2F%2Fwallpaperset.com%2Fwallpaper-computer-hd&psig=AOvVaw3J_9Vdh_Zyc37CGM5RIgEx&ust=1583079770642000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjgvfqV9-cCFQAAAAAdAAAAABAE);
+    background-position: center center;
+    background-size: cover;
+}
+
+.login{
+    margin-top: 50px;
+}
+
+.login .card{
+    background-color: rgba(0, 0, 0, .6);
+}
+
+radio{
+    border: #00695c;
+    background: #311b92;
+}
+
+i.icon-blue{
+    color: blue;
+}
+
+.divLogin{
+    background-color: rgba(0, 0, 0, 0.12);
+
+}
